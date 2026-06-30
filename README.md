@@ -1,7 +1,7 @@
 # Internship-powerbi-task
 An interactive Power BI dashboard that analyzes business data using dynamic visualizations, KPIs, and insights to support data-driven decision-making.
 
-# Power BI Sales Dashboard
+# Power BI Dashboard
 
 📌 Project Overview
 This project presents an interactive Power BI dashboard designed to analyze and visualize business data. The dashboard provides meaningful insights through various charts, KPIs, and filters, enabling users to make data-driven decisions.
